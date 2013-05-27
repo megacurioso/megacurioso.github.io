@@ -1,11 +1,11 @@
 {
   "version": "1.0",
-  "name": "Tecmundo",
-  "description": "O maior e mais acessado site de tecnologia do Brasil, segundo a comScore, com notÃ­cias, artigos exclusivos e anÃ¡lise dos principais lanÃ§amentos de produtos eletrÃ´nicos.",
+  "name": "Mega Curioso",
+  "description": "Perfeito para quem é ávido por conhecimento, o site possui as curiosidades mais interessantes do mundo, passando desde as novidades científicas a acontecimentos bizaroos e teorias de conspiração.",
   "launch_path": "/index.html",
   "icons": {
-    "60": "/images/tec60.png",
-    "128": "/images/tec128.png"
+    "60": "/images/mega60.png",
+    "128": "/images/mega128.png"
   },
   "developer": {
     "name": "No Zebra Network Ltda",
