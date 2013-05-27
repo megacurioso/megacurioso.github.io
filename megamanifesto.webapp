@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "name": "Mega Curioso",
+  "description": "Perfeito para quem é ávido por conhecimento, o site possui as curiosidades mais interessantes do mundo, passando desde as novidades científicas a acontecimentos bizaroos e teorias de conspiração.",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/images/mega60.png",
+    "128": "/images/mega128.png"
+  },
+  "developer": {
+    "name": "No Zebra Network Ltda",
+    "url": "http://www.gruponzn.com/"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "default_locale": "pt-BR"
+}
